@@ -1,3 +1,6 @@
 nånting
 
-och en ny rad kom till nu
+
+och en ny rad kom till nu.
+
+tredje raden!
